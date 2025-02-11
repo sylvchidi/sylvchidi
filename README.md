@@ -1,13 +1,13 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://sylvchidi.io)
 <h1 align="center">Hi 👋, I'm Sylvester Chidi</h1>
 <h3 align="center">A passionate frontend developer (Malaysia)</h3>
-<img align="right" alt="Coding" width="400" src= "https://camo.githubusercontent.com/ebcb5a7353c2591b2cbf11fd706c523609f3449721b6de55b0c8d69ca62154ee/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="500" src= "https://camo.githubusercontent.com/ebcb5a7353c2591b2cbf11fd706c523609f3449721b6de55b0c8d69ca62154ee/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 **I’m currently working on Portfolio Projects**
 
 - 🌱 **I’m currently learning full-Stack web development/JavaScript**
 
-- 🤝 **I’m looking for help with Internship to enhance my skills**
+- 🤝 **I’m looking for Internship to enhance my skills**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
