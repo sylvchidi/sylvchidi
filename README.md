@@ -3,11 +3,16 @@
 <h3 align="center">A passionate frontend developer (Malaysia)</h3>
 <img align="right" alt="Coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFhOHg4bTM0ZXFjY3JhOWJ2M3RwZDh3bjljdWEwdWZuc3FwNWkyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif">
 
-- 🌱 I’m currently learning **React | JavaScript | Node.JS**
+- 🔭 **I’m currently working on Portfolio Project**
 
-- 💬 Ask me about **Frontend developer**
+- 🌱 **I’m currently learning full-Stack web development/JavaScript**
+
+- 🤝 **I’m looking for help with Internship to enhance my skills**
+
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **Sylvchidi@gmail.com  or cychidi2015@gmail.com**
+- Fun fact **I am passionate about leaning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
