@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://sylvchidi.io)
 <h1 align="center">Hi 👋, I'm Sylvester Chidi</h1>
 <h3 align="center">A passionate frontend developer (Malaysia)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFhOHg4bTM0ZXFjY3JhOWJ2M3RwZDh3bjljdWEwdWZuc3FwNWkyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylvchidi&label=Profile%20views&color=0e75b6&style=flat" alt="sylvchidi" /> </p>
 
 - 🌱 I’m currently learning **React | JavaScript | Node.JS**
