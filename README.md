@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer (Malaysia)</h3>
 <img align="right" alt="Coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFhOHg4bTM0ZXFjY3JhOWJ2M3RwZDh3bjljdWEwdWZuc3FwNWkyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylvchidi&label=Profile%20views&color=0e75b6&style=flat" alt="sylvchidi" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvchidi" alt="sylvchidi" /></a> </p>
 
 - 🌱 I’m currently learning **React | JavaScript | Node.JS**
 
